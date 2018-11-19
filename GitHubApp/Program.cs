@@ -15,5 +15,10 @@ namespace GitHubApp
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
+
+        static void NewMethod()
+        {
+            Console.WriteLine("New Method");
+        }
     }
 }
