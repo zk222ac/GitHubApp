@@ -10,7 +10,7 @@ namespace GitHubApp
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Enter the name!");
 
             Console.WriteLine("Hello World!");
             Console.ReadKey();
